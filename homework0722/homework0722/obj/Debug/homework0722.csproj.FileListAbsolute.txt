@@ -1,0 +1,8 @@
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\bin\Debug\homework0722.exe.config
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\bin\Debug\homework0722.exe
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\bin\Debug\homework0722.pdb
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\obj\Debug\homework0722.csproj.AssemblyReference.cache
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\obj\Debug\homework0722.csproj.SuggestedBindingRedirects.cache
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\obj\Debug\homework0722.csproj.CoreCompileInputs.cache
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\obj\Debug\homework0722.exe
+C:\Users\김지원\Desktop\Homework\homework0722\homework0722\obj\Debug\homework0722.pdb
