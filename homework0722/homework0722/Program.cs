@@ -30,7 +30,7 @@ namespace homework0722
             f = a1 / b1;
             Console.WriteLine("/ : " + f);
             g = a1 * b1;
-            Console.WriteLine("^ : " + g);
+            Console.WriteLine("* : " + g);
             Console.ReadKey();
         }
     }
