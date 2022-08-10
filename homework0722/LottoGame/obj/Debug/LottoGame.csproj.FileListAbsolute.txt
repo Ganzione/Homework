@@ -1,0 +1,8 @@
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\bin\Debug\LottoGame.exe.config
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\bin\Debug\LottoGame.exe
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\bin\Debug\LottoGame.pdb
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\obj\Debug\LottoGame.csproj.AssemblyReference.cache
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\obj\Debug\LottoGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\obj\Debug\LottoGame.csproj.CoreCompileInputs.cache
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\obj\Debug\LottoGame.exe
+C:\Users\김지원\Desktop\Homework\homework0722\LottoGame\obj\Debug\LottoGame.pdb
