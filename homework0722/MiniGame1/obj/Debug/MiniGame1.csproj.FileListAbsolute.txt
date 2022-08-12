@@ -1,0 +1,8 @@
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\bin\Debug\MiniGame1.exe.config
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\bin\Debug\MiniGame1.exe
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\bin\Debug\MiniGame1.pdb
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\obj\Debug\MiniGame1.csproj.AssemblyReference.cache
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\obj\Debug\MiniGame1.csproj.SuggestedBindingRedirects.cache
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\obj\Debug\MiniGame1.csproj.CoreCompileInputs.cache
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\obj\Debug\MiniGame1.exe
+C:\Users\김지원\Desktop\Homework\homework0722\MiniGame1\obj\Debug\MiniGame1.pdb

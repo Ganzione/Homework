@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberGame", "NumberGame\Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoGame", "LottoGame\LottoGame.csproj", "{31F6A625-E906-4249-8012-885E02571598}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "makegame", "makegame\makegame.csproj", "{F8114C06-9542-4D0E-8D56-3BE274F34F65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame1", "MiniGame1\MiniGame1.csproj", "{32B2D40A-6254-4D38-82D9-4A4020255CA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{31F6A625-E906-4249-8012-885E02571598}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31F6A625-E906-4249-8012-885E02571598}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31F6A625-E906-4249-8012-885E02571598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8114C06-9542-4D0E-8D56-3BE274F34F65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8114C06-9542-4D0E-8D56-3BE274F34F65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8114C06-9542-4D0E-8D56-3BE274F34F65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8114C06-9542-4D0E-8D56-3BE274F34F65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32B2D40A-6254-4D38-82D9-4A4020255CA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32B2D40A-6254-4D38-82D9-4A4020255CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32B2D40A-6254-4D38-82D9-4A4020255CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32B2D40A-6254-4D38-82D9-4A4020255CA7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
