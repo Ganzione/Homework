@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "makegame", "makegame\makega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame1", "MiniGame1\MiniGame1.csproj", "{32B2D40A-6254-4D38-82D9-4A4020255CA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiniGame2", "MiniGame2\MiniGame2.csproj", "{2FA12B1E-6675-4FDE-BF22-14E33029810C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{32B2D40A-6254-4D38-82D9-4A4020255CA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32B2D40A-6254-4D38-82D9-4A4020255CA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32B2D40A-6254-4D38-82D9-4A4020255CA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA12B1E-6675-4FDE-BF22-14E33029810C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA12B1E-6675-4FDE-BF22-14E33029810C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA12B1E-6675-4FDE-BF22-14E33029810C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA12B1E-6675-4FDE-BF22-14E33029810C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

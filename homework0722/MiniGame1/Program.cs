@@ -15,7 +15,7 @@ namespace MiniGame1
 
             while (true)
             {
-                int i = random.Next(1, 10); //컴퓨터가 1~9 중 하나를 랜덤 선택한다.
+                int i = random.Next(1, 9); //컴퓨터가 1~8 중 하나를 랜덤 선택한다.
 
                 Console.Write("홀 또는 짝 중에 하나를 적어주십시오: ");
                 string a = Console.ReadLine();
